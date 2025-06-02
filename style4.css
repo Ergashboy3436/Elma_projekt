@@ -35,3 +35,37 @@
     color: #010a3a !important;
     transition: 0.3s;
 }
+h1 {
+  font-size: 60px;
+  color: #010a3a;
+  margin-top: 30px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.box {
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.left h1 {
+  color: #010a3a;
+  font-weight: bold;
+}
+
+.bottom p {
+  color: #010a3a;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.img-style {
+  height: 500px;
+  border-radius: 20px;
+  object-fit: cover;
+}
